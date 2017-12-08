@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Recipe List</string>
+    <string name="kale">Kale/Lemon Sandwiches</string>
+    <string name="kale2">This sandwich is stunningly delicious and tastes as good as it is healthy. Any greens of choice will work.</string>
+    <string name="kale3">The lemon adds an almost sweet taste. Be generous with it!</string>
+    <string name="mango">Mango-Line Bean Salad</string>
+    <string name="mango2">Everyone loves this, so double or even triple the recipe! It vanishes in a flash, and also works well as a salsa. It really is our all-time favorite summer salad.</string>
+    <string name="shii">Sweet Potato and Lentil Soup with Shiitake Mushrooms</string>
+    <string name="shii2">This soup is so good Essy and I ate it ALL the first time I made it. If someone is hesitant about plant-based food this has to be convincer.</string>
+    <string name="lime">Lime Mousse</string>
+    <string name="lime2">This is FABULOUS alone, topped with fruit of any kind of as a frosting on cake. It is fast to make at the last minute. Use more or less lime according to taste.</string>
+</resources>
